@@ -1,0 +1,22 @@
+{
+  "name": "resume-template",
+  "version": "1.0.0",
+  "description": "Resume template built with HTML &amp; CSS",
+  "main": "toPdf.js",
+  "scripts": {
+    "convert": "node toPdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FahadulShadhin/Resume-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FahadulShadhin/Resume-template/issues"
+  },
+  "homepage": "https://github.com/FahadulShadhin/Resume-template#readme",
+  "dependencies": {
+    "html-pdf": "^3.0.1"
+  }
+}
